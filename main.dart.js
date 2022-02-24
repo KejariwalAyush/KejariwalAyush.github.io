@@ -56046,7 +56046,7 @@ s=t._
 i=A.k0(A.ix(A.b([new A.pK("\ud83d\udc31\u200d\ud83d\udcbb Hackathons",A.b([new A.e4("- Runner-up in Gear-Up Hackathon, 2021","https://www.linkedin.com/posts/coding-wizard-club_codingwizard-event-gearup2021-activity-6855189609089921025-pMLD"),new A.e4("- Xperiments Redux, 2021","https://drive.google.com/file/d/1_nPodjB_rhUWqbKmbwGnskSxUUOSAHbz/view?usp=sharing"),new A.e4("- Utkal Hacks 3.0, 2021","https://drive.google.com/file/d/1qeoIMsd7xt7ZECKnxtY0_jJXUr_86jNm/view?usp=sharing"),new A.e4("- Codex CTF - 12 hrs, 2021","https://drive.google.com/file/d/1DPz6emHLncDUqW8u7eWnJPbz1iaw1d24/view?usp=sharing"),new A.e4("- Participated in Hackerwar 2.0, 2020","https://drive.google.com/file/d/1XK4Zh9M4c0mPrwGTHkFL1iC5W-cSRnjM/view?usp=sharing")],i),p),new A.pK("\ud83d\udcdc Published Paper",A.b([new A.e4("- Information Security using multi-media Steganography (Python), Springer Publication, 2019-20","https://link.springer.com/chapter/10.1007/978-981-15-6202-0_65")],i),p),new A.pK("\ud83c\udfc6 Recognitions",A.b([new A.e4("- Student Coordinator of CODEX (The only Coding Club of ITER)",""),new A.e4("- Chapter Coordinator at Google Developer Student Club (GDSC) of ITER","https://www.linkedin.com/posts/gdsciter_meet-our-team-activity-6847015302224482304-s9cb"),new A.e4("- Completed Kharagpur Winter of Code (KWoC), 2020","https://drive.google.com/file/d/1-1o2Ej1J84YDOMde9kEAMMvX6AXZLgie/view?usp=sharing"),new A.e4("- Completed Hacktoberfest, 2020",""),new A.e4("- Completed Hacktoberfest, 2021","")],i),p)],s),B.a7,p,B.qc,B.Z),1)
 r=b.t(o).f
 q=b.t(o).f
-q=A.ca(A.iL("assets/images/awards.png",B.cT),q.a.b*0.4,p)
+q=A.ca(A.iL("assets/images/Awards.png",B.cT),q.a.b*0.4,p)
 o=b.t(o).f.a.a>675?64:32
 return A.df(p,A.f8(B.aa,A.b([l,h,A.iv(A.tb(A.b([i,new A.Go(new A.ct(new A.aZ(o,0,o,0),q,p),r.a.a>675,p)],s),B.a3,k,p,j,B.Z,p,p,B.al),p,p,p)],s),B.au),B.o,p,p,p,p,m,p,p,p,p,n.a.a)}}
 A.e4.prototype={}
@@ -56251,7 +56251,7 @@ c=a2.t(g).f.a.a>675?B.a_:B.ax
 b=a2.t(g).f.a.a>675?B.bi:B.aQ
 a=a2.t(g).f.a.a>675?a2.t(g).f.a.a*0.45:i
 s=a2.t(g).f.a.a>675?i:a2.t(g).f.a.b*0.45
-a=A.ca(A.iL("assets/images/work.png",B.cT),s,a)
+a=A.ca(A.iL("assets/images/Work.png",B.cT),s,a)
 s=A.ck("Who Am I?")
 s.ch=B.R
 r=A.c(s.bW$,h)
